@@ -7,7 +7,7 @@ line-height: 1.6;
 font-family:'Times New Roman', Times, serif ;
 }
 nav{
-background-color: rgb(24, 209, 209);
+background-color: rgb(1, 14, 14);
 color:#fff;
 display: flex;
 justify-content: space-between;
@@ -41,7 +41,7 @@ text-decoration: none;
 color: #ff6347;
 }
 #profile{
-background:#5173ebad;
+background:linear-gradient(90deg, rgba(11,208,223,1) 18%, rgba(200,8,183,1) 35%, rgba(255,218,0,1) 100%);
 height: 100vh;
 display: flex;
 text-align: center;
@@ -52,14 +52,14 @@ font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans
 font-size: 30px;
 }
 .profile-content img{
-width: 250px;
-border-radius:300PX ;
+width: 358px;
+border-radius:310PX ;
 filter: drop-shadow(0px 0px 15px rgba(0, 0, 0, 0.6));
 background-color: transparent;
 
 }
 .profile-content P{
-color:white ;
+color:rgb(8, 8, 8) ;
 filter: drop-shadow(0px 0px 15px rgba(0, 0, 0, 0.4));
 }
 button{
